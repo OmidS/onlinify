@@ -21,5 +21,5 @@ As the names suggest, showResultsBox will add each output to the end of total ou
 * Obviously, fieldtripbuffer and bci2000 must be available and they must be added to your MATLAB path. "startup.m" does just that. Typical usage senario is that you run "startup.m" once every time you open MATLAB to use onlinify.
 
 Goodluck
+
 Omid
-omidsani@gmail.com
